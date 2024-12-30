@@ -39,7 +39,7 @@ function Sidebar({ sidebarRef }) {
       <SidebarHeaderAndAvatar />
       <Logo />
       <MainNav />
-      {/* <Uploader /> */}
+      <Uploader />
     </StyledSidebar>
   );
 }
